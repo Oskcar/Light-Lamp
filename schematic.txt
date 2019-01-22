@@ -1,0 +1,3 @@
+atmega 328	
+resistor
+sparkfun microcontroler
